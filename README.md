@@ -5,6 +5,8 @@ Outside of computers, my interests lie in knitting, radio production, and music.
 
 Right now I'm working on:
 - a simple game where the computer guesses the number you're thinking of, with python
-- a personal website which will serve as a blog for my projects, including software, hardware, and systems, as well as my other hobbies. This is being hosted one Neocities
+- a personal website which will serve as a blog for my projects, including software, hardware, and systems, as well as my other hobbies. This is being hosted on Neocities
+
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=tahjdhebert&theme=synthwave)](https://git.io/streak-stats)
 
