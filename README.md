@@ -1,5 +1,5 @@
 Hi There!
-My name is Tahj Hebert, but you may know me on the internet as sssquidee. Though I currently work in administrative assistance and retail, I am in the process of pursuing my degree in computer science. While programming and software is my passion, I'm also working on learning the in's and out's of computer hardware, how to use my operating systems to their full potential/efficiency, and I have an interest in servers and systems administration. 
+My name is Tahj Hebert, but you may know me on the internet as sssquidee. Though I currently work in administrative assistance and retail, I am in the process of pursuing my degree in computer science. While programming and software is my passion, I'm also working on learning the in's and out's of computer hardware, how to use my operating systems to their full potential/efficiency, and I have an interest in servers and systems administration. Any projects that are ever uploaded here are **COPYLEFT**. This stands for the history of time. Use it, abuse it, but don't monitize it!
 
 Outside of computers, my interests lie in knitting, radio production, and music.
 
